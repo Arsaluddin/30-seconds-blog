@@ -1,15 +1,17 @@
-# Contribution Guidelines
+# Contribution Guidelines✔
+
+<img src="https://i.stack.imgur.com/0ihMd.png"  height=400 width=450/>
 
 **30 seconds of code** is powered by the community, so feel free to contribute in any way you can to help us!
 
-## How you can help
+## How you can help🚀
 
-- Submit pull requests with new snippets (see guidelines below) or snippet updates (tags, descriptions, explanations, typos, examples, code improvements).
+- Submit pull requests with new snippets (see guidelines below) or snippet updates **(tags, descriptions, explanations, typos, examples, code improvements)**.
 - Open issues for things you want to see added, modified, discuss ideas or help out with existing issues.
 
-## Ground rules
+## Ground rules🚀
 
-Breaking any of these rules will result in your pull request being closed. Please follow these guidelines above all else:
+**Breaking any of these rules will result in your pull request being closed. Please follow these guidelines above all else:**
 
 - **Always be polite and respectful to others** and try to follow the advice of the moderators/collaborators/owners.
 - **Only modify snippet files**, never modify the generated files in the `blog_data` directory, except for the `blog_authors.json` file.
@@ -17,7 +19,7 @@ Breaking any of these rules will result in your pull request being closed. Pleas
 - **Follow snippet format exactly**, otherwise your snippets will not be recognized correctly by the tools responsible for publishing them on the website. This includes such things as spacing and empty lines - if you accidentally make a mistake, consult the repository's [snippet template](snippet-template.md).
 - **Snippets should solve real-world problems**, no matter how simple and should be abstract enough to be applied to different scenarios.
 
-## Snippet creation
+## Snippet creation🚀
 
 In order to create a new snippet, you should follow the steps below:
 
@@ -25,7 +27,7 @@ In order to create a new snippet, you should follow the steps below:
 - Change the name of the newly created file to the name of your snippet.
 - Edit the file, adding your snippet based on the guidelines.
 
-## Snippet guidelines
+## Snippet guidelines🚀
 
 - Snippet must follow [these general writing guidelines](https://github.com/30-seconds/brand-and-design/blob/master/writing-guidelines.md).
 - Snippets must have all their frontmatter sections (title, tags etc.) filled.
